@@ -1,0 +1,16 @@
+{
+    "name": "UniClipboard.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:000d5e9f8e68e0e42b50e5e3647a20a9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
